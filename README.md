@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: website link:https://waiting-for-a-signal.ai.studio/
+View your app in AI Studio: website link: https://aistudio.google.com/apps/
 ## Run Locally
 
 **Prerequisites:**  Node.js
