@@ -1,0 +1,6 @@
+{
+  "name": "Waiting for a Signal",
+  "description": "An interactive 3D sci-fi space exploration game based on NASA's Apollo 11, Apollo 15, and Mars 2020 Ingenuity missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
